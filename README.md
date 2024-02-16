@@ -20,7 +20,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.python.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank"> 
