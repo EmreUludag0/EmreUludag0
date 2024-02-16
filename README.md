@@ -23,9 +23,6 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="c#" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> 
   </a>  
