@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Fdjango&psig=AOvVaw0DWUqSEl6w-Ksy8Ad_I-uH&ust=1708167899937000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC797jbr4QDFQAAAAAdAAAAABAV](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fdjango-1&psig=AOvVaw0DWUqSEl6w-Ksy8Ad_I-uH&ust=1708167899937000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC797jbr4QDFQAAAAAdAAAAABAg)](https://cdn.iconscout.com/icon/free/png-256/free-django-1-282754.png?f=webp)" alt="DJ" width="40" height="40"/> 
+    <img src="https://camo.githubusercontent.com/99770eadc4bd77acdd76c628d1a166d8a7bbfde493e170d3a076bde81289c2a8/68747470733a2f2f7331372e7069636f66696c652e636f6d2f66696c652f383431383130303937362f646a616e676f2e706e67" alt="DJ" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> 
