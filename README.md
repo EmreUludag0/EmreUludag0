@@ -5,7 +5,7 @@
 
 - Udemy, İsmek, Btkakademi üzerinden yazılım kurslarına alıyorum.
 
-- Python, C#, Excel VBA, TSQL dillerinde kendimi geliştiriyorum.
+- Python, c#, Excel VBA, TSQL dillerinde kendimi geliştiriyorum.
 
 - Gmail: **emreuldg5@gmail.com**
 
