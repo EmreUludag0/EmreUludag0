@@ -23,7 +23,7 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://camo.githubusercontent.com/99770eadc4bd77acdd76c628d1a166d8a7bbfde493e170d3a076bde81289c2a8/68747470733a2f2f7331372e7069636f66696c652e636f6d2f66696c652f383431383130303937362f646a616e676f2e706e67" alt="DJ" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
