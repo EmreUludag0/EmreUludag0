@@ -1,4 +1,4 @@
-<h1 align="center">EMRE ULUDAG</h1>
+<h1 align="center">EMRE</h1>
 <h3 align="center"></h3>
 
 - Kocaeli Üniversitesi Bilgisayar Prog. mezunuyum, Anadolu Üniversitesi YBS (açıköğretim) 3. sınıf öğrencisiyim
