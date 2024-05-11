@@ -1,11 +1,11 @@
 <h1 align="center">EMRE</h1>
 <h3 align="center"></h3>
 
-- Kocaeli Üniversitesi Bilgisayar Prog. mezunuyum, Anadolu Üniversitesi YBS (açıköğretim) 3. sınıf öğrencisiyim
+- Kocaeli Üniversitesi Bilgisayar Prog. mezunuyum, Anadolu Üniversitesi YBS 3. sınıf öğrencisiyim
 
-- Udemy, İsmek, Btkakademi üzerinden yazılım kurslarına alıyorum.
+- Udemy, İsmek, Btkakademi üzerinden yazılım kursları alıyorum.
 
-- Python, c#, Excel VBA, TSQL dillerinde kendimi geliştiriyorum.
+- Python, Excel VBA, TSQL dillerinde kendimi geliştiriyorum.
 
 - Gmail: **emreuldg5@gmail.com**
 
